@@ -32,3 +32,7 @@
 /doc/doxygen.cfg
 /doc/html
 /stamp-*
+
+*.sdf
+*.opendb
+.vs/
